@@ -1,4 +1,4 @@
-## Portofolio Maulana Nur Hidayah
+## Portofolio Maulana Nur
 
 # Getting Started with Create React App
 
